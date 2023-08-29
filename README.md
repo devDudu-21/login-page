@@ -1,8 +1,8 @@
 ### This project intends to present a 100% responsive and functional login page
 
-![GitHub repo size](https://img.shields.io/github/repo-size/DuduDevCode/landing-page?style=for-the-badge)
-![GitHub language count](https://img.shields.io/github/languages/count/DuduDevCode/landing-page?style=for-the-badge)
-![GitHub forks](https://img.shields.io/github/forks/DuduDevCode/landing-page?style=for-the-badge)
+![GitHub repo size](https://img.shields.io/github/repo-size/devDudu-21/login-page?style=for-the-badge)
+![GitHub language count](https://img.shields.io/github/languages/count/devDudu-21/login-page?style=for-the-badge)
+![GitHub forks](https://img.shields.io/github/forks/devDudu-21/login-page?style=for-the-badge)
 
 <img src="https://media.discordapp.net/attachments/1105303102359359539/1105895828855463966/image.png?width=1343&height=676" alt="Page preview">
 
